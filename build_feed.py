@@ -170,6 +170,7 @@ def build_feed(posts: list[dict]) -> bytes:
 
 def main() -> int:
     OUT_DIR.mkdir(exist_ok=True)
+    (OUT_DIR / ".nojekyll").touch()  # serve files as-is; skip the Jekyll build
     cache = load_cache()
 
     listing = scrape_listing(get(BLOG_URL))
