@@ -1,0 +1,74 @@
+{
+  "https://temporal.io/blog/ai-framework-integrations": {
+    "date": "2026-10-30T12:00:00+00:00",
+    "description": "Temporal integrations for Google ADK, OpenAI Agents SDK, AWS Strands, LangGraph, and more are GA. Here to add Durable Execution to your agents.",
+    "title": "Temporal AI framework integrations are now GA",
+    "url": "https://temporal.io/blog/ai-framework-integrations"
+  },
+  "https://temporal.io/blog/ai-prospecting-agent-temporal-kepler": {
+    "date": "2026-11-09T12:00:00+00:00",
+    "description": "Jeff Long, former BDR, built Kepler, an AI prospecting agent on Temporal that spots signals, vets contacts, and drafts outreach for reps to edit and send.",
+    "title": "How I built an AI prospecting agent on Temporal to take the admin off BDRs",
+    "url": "https://temporal.io/blog/ai-prospecting-agent-temporal-kepler"
+  },
+  "https://temporal.io/blog/durable-digest-october-highlights": {
+    "date": "2026-11-03T12:00:00+00:00",
+    "description": "Explore Octoberâs product updates and practical examples of building reliable applications with Temporal.",
+    "title": "Durable Digest: October 2026",
+    "url": "https://temporal.io/blog/durable-digest-october-highlights"
+  },
+  "https://temporal.io/blog/durable-execution-means-deciding-what-survives-failure": {
+    "date": "2026-11-04T12:00:00+00:00",
+    "description": "See how Temporal preserves progress across failures in Kubernetes analysis and AI agent Workflows, while keeping retries and recovery explicit.",
+    "title": "Durable Execution means deciding what survives failure",
+    "url": "https://temporal.io/blog/durable-execution-means-deciding-what-survives-failure"
+  },
+  "https://temporal.io/blog/measuring-temporal-workflow-health-with-opentelemetry-and-parseable": {
+    "date": "2026-11-05T12:00:00+00:00",
+    "description": "",
+    "title": "Measuring Temporal Workflow health with OpenTelemetry and Parseable",
+    "url": "https://temporal.io/blog/measuring-temporal-workflow-health-with-opentelemetry-and-parseable"
+  },
+  "https://temporal.io/blog/production-controls": {
+    "date": "2026-10-29T12:00:00+00:00",
+    "description": "Learn how Temporalâs production controls help you find stalled Workflows, pause execution, adjust Activity settings, and recover from production issues.",
+    "title": "See whatâs happening. Control what happens next.",
+    "url": "https://temporal.io/blog/production-controls"
+  },
+  "https://temporal.io/blog/running-doom-as-a-temporal-workflow": {
+    "date": "2026-11-11T12:00:00+00:00",
+    "description": "See how DOOM runs as a Temporal Workflow, using deterministic inputs, replay, and Durable Execution to survive crashes, resume games, and even rewind death.",
+    "title": "DOOM, durably: running DOOM as a Temporal Workflow",
+    "url": "https://temporal.io/blog/running-doom-as-a-temporal-workflow"
+  },
+  "https://temporal.io/blog/securing-self-hosted-temporal-cross-cluster-replication-with-mtls": {
+    "date": "2026-11-10T12:00:00+00:00",
+    "description": "Learn how to secure self-hosted Temporal cross-cluster replication with mTLS, including certificates, cluster configuration, failover, and testing.",
+    "title": "Securing self-hosted Temporal cross-cluster replication with mTLS",
+    "url": "https://temporal.io/blog/securing-self-hosted-temporal-cross-cluster-replication-with-mtls"
+  },
+  "https://temporal.io/blog/serverless-workers-lambda-cloud-run": {
+    "date": "2026-10-28T12:00:00+00:00",
+    "description": "Temporal Serverless Workers pair Durable Execution with on-demand compute on AWS Lambda and Google Cloud Run, so jobs and AI apps scale up and down to zero.",
+    "title": "Serverless Workers: from background jobs to complex agents",
+    "url": "https://temporal.io/blog/serverless-workers-lambda-cloud-run"
+  },
+  "https://temporal.io/blog/temporal-named-to-2026-ai-100": {
+    "date": "2026-11-12T12:00:00+00:00",
+    "description": "Temporal joins the inaugural 2026 AI 100. Why reliability and Durable Execution matter as AI agents run for weeks and must survive failures in production.",
+    "title": "Temporal is named to the 2026 AI 100 as teams ask more of their AI infrastructure",
+    "url": "https://temporal.io/blog/temporal-named-to-2026-ai-100"
+  },
+  "https://temporal.io/blog/who-needs-workflows-when-you-have-agents": {
+    "date": "2026-11-10T12:00:00+00:00",
+    "description": "See how Temporal gives AI agents a durable backbone for long-running enterprise workflows that require reliability, recovery, and auditability.",
+    "title": "Who needs workflows when you have agents?",
+    "url": "https://temporal.io/blog/who-needs-workflows-when-you-have-agents"
+  },
+  "https://temporal.io/blog/your-agent-harness-shouldnt-be-a-black-box": {
+    "date": "2026-11-09T12:00:00+00:00",
+    "description": "Understand the choices inside your AI agent harness, from memory and tool access to failure recovery, with Amazon Bedrock AgentCore and Temporal.",
+    "title": "Your agent harness shouldnât be a black box",
+    "url": "https://temporal.io/blog/your-agent-harness-shouldnt-be-a-black-box"
+  }
+}
