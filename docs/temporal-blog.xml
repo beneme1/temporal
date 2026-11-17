@@ -6,7 +6,13 @@
     <description>Articles from temporal.io/blog, scraped by a GitHub Actions workflow.</description>
     <language>en</language>
     <atom:link href="https://beneme1.github.io/temporal/temporal-blog.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 12 Nov 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 12:00:00 +0000</lastBuildDate>
+    <item>
+      <title>The sync-head / async-tail pattern: fast APIs with durable execution using  Temporal Update-With-Start</title>
+      <link>https://temporal.io/blog/fast-apis-with-durable-execution-using-temporal-update-with-start</link>
+      <guid isPermaLink="true">https://temporal.io/blog/fast-apis-with-durable-execution-using-temporal-update-with-start</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Temporal is named to the 2026 AI 100 as teams ask more of their AI infrastructure</title>
       <link>https://temporal.io/blog/temporal-named-to-2026-ai-100</link>

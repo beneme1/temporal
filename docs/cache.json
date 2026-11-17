@@ -23,6 +23,12 @@
     "title": "Durable Execution means deciding what survives failure",
     "url": "https://temporal.io/blog/durable-execution-means-deciding-what-survives-failure"
   },
+  "https://temporal.io/blog/fast-apis-with-durable-execution-using-temporal-update-with-start": {
+    "date": "2026-11-17T12:00:00+00:00",
+    "description": "",
+    "title": "The sync-head / async-tail pattern: fast APIs with durable execution using  Temporal Update-With-Start",
+    "url": "https://temporal.io/blog/fast-apis-with-durable-execution-using-temporal-update-with-start"
+  },
   "https://temporal.io/blog/measuring-temporal-workflow-health-with-opentelemetry-and-parseable": {
     "date": "2026-11-05T12:00:00+00:00",
     "description": "",
