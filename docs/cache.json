@@ -11,6 +11,18 @@
     "title": "How I built an AI prospecting agent on Temporal to take the admin off BDRs",
     "url": "https://temporal.io/blog/ai-prospecting-agent-temporal-kepler"
   },
+  "https://temporal.io/blog/azure-publicpreview": {
+    "date": "2026-11-18T12:00:00+00:00",
+    "description": "",
+    "title": "Temporal Cloud on Azure is now in Public Preview",
+    "url": "https://temporal.io/blog/azure-publicpreview"
+  },
+  "https://temporal.io/blog/building-a-reliable-ai-agent-with-oscar": {
+    "date": "2026-11-18T12:00:00+00:00",
+    "description": "Learn how to take a Spring AI agent from prototype to production with Temporal, adding durable execution, retries, observability, and human approval.",
+    "title": "Building a reliable AI agent with OSCAR",
+    "url": "https://temporal.io/blog/building-a-reliable-ai-agent-with-oscar"
+  },
   "https://temporal.io/blog/durable-digest-october-highlights": {
     "date": "2026-11-03T12:00:00+00:00",
     "description": "Explore Octoberâs product updates and practical examples of building reliable applications with Temporal.",
@@ -52,6 +64,12 @@
     "description": "Learn how to secure self-hosted Temporal cross-cluster replication with mTLS, including certificates, cluster configuration, failover, and testing.",
     "title": "Securing self-hosted Temporal cross-cluster replication with mTLS",
     "url": "https://temporal.io/blog/securing-self-hosted-temporal-cross-cluster-replication-with-mtls"
+  },
+  "https://temporal.io/blog/security-that-compounds": {
+    "date": "2026-11-18T12:00:00+00:00",
+    "description": "See how Temporalâs security team combines AI agents, shared security knowledge, and deterministic controls to investigate risks and scale security work.",
+    "title": "Security that compounds",
+    "url": "https://temporal.io/blog/security-that-compounds"
   },
   "https://temporal.io/blog/serverless-workers-lambda-cloud-run": {
     "date": "2026-10-28T12:00:00+00:00",

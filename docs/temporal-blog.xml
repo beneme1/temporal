@@ -6,7 +6,27 @@
     <description>Articles from temporal.io/blog, scraped by a GitHub Actions workflow.</description>
     <language>en</language>
     <atom:link href="https://beneme1.github.io/temporal/temporal-blog.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 17 Nov 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Temporal Cloud on Azure is now in Public Preview</title>
+      <link>https://temporal.io/blog/azure-publicpreview</link>
+      <guid isPermaLink="true">https://temporal.io/blog/azure-publicpreview</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security that compounds</title>
+      <link>https://temporal.io/blog/security-that-compounds</link>
+      <guid isPermaLink="true">https://temporal.io/blog/security-that-compounds</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+      <description>See how Temporalâs security team combines AI agents, shared security knowledge, and deterministic controls to investigate risks and scale security work.</description>
+    </item>
+    <item>
+      <title>Building a reliable AI agent with OSCAR</title>
+      <link>https://temporal.io/blog/building-a-reliable-ai-agent-with-oscar</link>
+      <guid isPermaLink="true">https://temporal.io/blog/building-a-reliable-ai-agent-with-oscar</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+      <description>Learn how to take a Spring AI agent from prototype to production with Temporal, adding durable execution, retries, observability, and human approval.</description>
+    </item>
     <item>
       <title>The sync-head / async-tail pattern: fast APIs with durable execution using  Temporal Update-With-Start</title>
       <link>https://temporal.io/blog/fast-apis-with-durable-execution-using-temporal-update-with-start</link>
