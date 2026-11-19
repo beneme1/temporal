@@ -14,6 +14,13 @@
       <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Building a reliable AI agent with OSCAR</title>
+      <link>https://temporal.io/blog/building-a-reliable-ai-agent-with-oscar</link>
+      <guid isPermaLink="true">https://temporal.io/blog/building-a-reliable-ai-agent-with-oscar</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+      <description>Learn how to take a Spring AI agent from prototype to production with Temporal, adding durable execution, retries, observability, and human approval.</description>
+    </item>
+    <item>
       <title>Security that compounds</title>
       <link>https://temporal.io/blog/security-that-compounds</link>
       <guid isPermaLink="true">https://temporal.io/blog/security-that-compounds</guid>
@@ -21,11 +28,11 @@
       <description>See how Temporalâs security team combines AI agents, shared security knowledge, and deterministic controls to investigate risks and scale security work.</description>
     </item>
     <item>
-      <title>Building a reliable AI agent with OSCAR</title>
-      <link>https://temporal.io/blog/building-a-reliable-ai-agent-with-oscar</link>
-      <guid isPermaLink="true">https://temporal.io/blog/building-a-reliable-ai-agent-with-oscar</guid>
+      <title>Everyone has an AI plan until reality hits</title>
+      <link>https://temporal.io/blog/everyone-has-an-ai-plan-until-reality-hits</link>
+      <guid isPermaLink="true">https://temporal.io/blog/everyone-has-an-ai-plan-until-reality-hits</guid>
       <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
-      <description>Learn how to take a Spring AI agent from prototype to production with Temporal, adding durable execution, retries, observability, and human approval.</description>
+      <description>AI automation costs go beyond tokens. Learn how Temporalâs Durable Execution supports retries, human approvals, and recovery when systems fail.</description>
     </item>
     <item>
       <title>The sync-head / async-tail pattern: fast APIs with durable execution using  Temporal Update-With-Start</title>

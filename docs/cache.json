@@ -35,6 +35,12 @@
     "title": "Durable Execution means deciding what survives failure",
     "url": "https://temporal.io/blog/durable-execution-means-deciding-what-survives-failure"
   },
+  "https://temporal.io/blog/everyone-has-an-ai-plan-until-reality-hits": {
+    "date": "2026-11-18T12:00:00+00:00",
+    "description": "AI automation costs go beyond tokens. Learn how Temporalâs Durable Execution supports retries, human approvals, and recovery when systems fail.",
+    "title": "Everyone has an AI plan until reality hits",
+    "url": "https://temporal.io/blog/everyone-has-an-ai-plan-until-reality-hits"
+  },
   "https://temporal.io/blog/fast-apis-with-durable-execution-using-temporal-update-with-start": {
     "date": "2026-11-17T12:00:00+00:00",
     "description": "",
