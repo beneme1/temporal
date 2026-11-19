@@ -83,6 +83,12 @@
     "title": "Serverless Workers: from background jobs to complex agents",
     "url": "https://temporal.io/blog/serverless-workers-lambda-cloud-run"
   },
+  "https://temporal.io/blog/temporal-ai-partner-ecosystem": {
+    "date": "2026-11-19T12:00:00+00:00",
+    "description": "The Temporal AI Partner Ecosystem brings Durable Execution to the tools you use to build AI agents that recover from failures and wait for human review.",
+    "title": "Building Durable Execution into the production AI ecosystem",
+    "url": "https://temporal.io/blog/temporal-ai-partner-ecosystem"
+  },
   "https://temporal.io/blog/temporal-named-to-2026-ai-100": {
     "date": "2026-11-12T12:00:00+00:00",
     "description": "Temporal joins the inaugural 2026 AI 100. Why reliability and Durable Execution matter as AI agents run for weeks and must survive failures in production.",

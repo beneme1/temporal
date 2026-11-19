@@ -6,7 +6,14 @@
     <description>Articles from temporal.io/blog, scraped by a GitHub Actions workflow.</description>
     <language>en</language>
     <atom:link href="https://beneme1.github.io/temporal/temporal-blog.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 18 Nov 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 12:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Building Durable Execution into the production AI ecosystem</title>
+      <link>https://temporal.io/blog/temporal-ai-partner-ecosystem</link>
+      <guid isPermaLink="true">https://temporal.io/blog/temporal-ai-partner-ecosystem</guid>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+      <description>The Temporal AI Partner Ecosystem brings Durable Execution to the tools you use to build AI agents that recover from failures and wait for human review.</description>
+    </item>
     <item>
       <title>Temporal Cloud on Azure is now in Public Preview</title>
       <link>https://temporal.io/blog/azure-publicpreview</link>
@@ -21,18 +28,18 @@
       <description>Learn how to take a Spring AI agent from prototype to production with Temporal, adding durable execution, retries, observability, and human approval.</description>
     </item>
     <item>
-      <title>Security that compounds</title>
-      <link>https://temporal.io/blog/security-that-compounds</link>
-      <guid isPermaLink="true">https://temporal.io/blog/security-that-compounds</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
-      <description>See how Temporalâs security team combines AI agents, shared security knowledge, and deterministic controls to investigate risks and scale security work.</description>
-    </item>
-    <item>
       <title>Everyone has an AI plan until reality hits</title>
       <link>https://temporal.io/blog/everyone-has-an-ai-plan-until-reality-hits</link>
       <guid isPermaLink="true">https://temporal.io/blog/everyone-has-an-ai-plan-until-reality-hits</guid>
       <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
       <description>AI automation costs go beyond tokens. Learn how Temporalâs Durable Execution supports retries, human approvals, and recovery when systems fail.</description>
+    </item>
+    <item>
+      <title>Security that compounds</title>
+      <link>https://temporal.io/blog/security-that-compounds</link>
+      <guid isPermaLink="true">https://temporal.io/blog/security-that-compounds</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+      <description>See how Temporalâs security team combines AI agents, shared security knowledge, and deterministic controls to investigate risks and scale security work.</description>
     </item>
     <item>
       <title>The sync-head / async-tail pattern: fast APIs with durable execution using  Temporal Update-With-Start</title>
