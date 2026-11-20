@@ -47,6 +47,12 @@
     "title": "The sync-head / async-tail pattern: fast APIs with durable execution using  Temporal Update-With-Start",
     "url": "https://temporal.io/blog/fast-apis-with-durable-execution-using-temporal-update-with-start"
   },
+  "https://temporal.io/blog/how-to-aggregate-test-results-across-teams-with-temporal-nexus": {
+    "date": "2026-11-20T12:00:00+00:00",
+    "description": "How Temporalâs Release Engineering team used a Nexus Operation and a shared report format to collect test results from many teams in one place.",
+    "title": "Aggregate test results across teams with Temporal Nexus",
+    "url": "https://temporal.io/blog/how-to-aggregate-test-results-across-teams-with-temporal-nexus"
+  },
   "https://temporal.io/blog/measuring-temporal-workflow-health-with-opentelemetry-and-parseable": {
     "date": "2026-11-05T12:00:00+00:00",
     "description": "",
